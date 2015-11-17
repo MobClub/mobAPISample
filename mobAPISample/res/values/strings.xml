@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mobAPI</string>
+    <string name="enter_appkey">请输入您的APPKEY</string>
+    <string name="integrated_apis">显示已集成的API</string>
+    <string name="integrated_apis_x">已集成的API有：%s</string>
+    <string name="custom_api">自定义API演示</string>
+    <string name="close">关闭</string>
+    <string name="weather_api">天气预报查询API</string>
+    <string name="cook_api">菜谱查询API</string>
+    <string name="postcode_api">邮编查询API</string>
+    <string name="mobile_api">手机号码查询API</string>
+    <string name="error_raise">发现异常，请查看Logcat！</string>
+    <string name="enter_phone_number">请输入手机号码</string>
+    <string name="search">搜索</string>
+    <string name="path">地址</string>
+    <string name="enter_api_path">请输入接口地址</string>
+    <string name="param">参数</string>
+    <string name="key_of_param">参数名称</string>
+    <string name="value_of_param">参数值</string>
+    <string name="file">文件</string>
+    <string name="name_of_file">文件名称</string>
+    <string name="path_of_file">文件路径</string>
+    <string name="add_param">+ 参数</string>
+    <string name="add_file">+ 文件</string>
+    <string name="remove_param">- 参数</string>
+    <string name="remove_file">- 文件</string>
+    <string name="postcode_to_address">邮编转地址</string>
+    <string name="address_to_postcode">地址转邮编</string>
+    <string name="enter_postcode">请输入邮编</string>
+    <string name="postcode_is_x">%1$s%2$s%3$s%4$s的邮编为: %5$s</string>
+    
+    <string name="weather_api_title_weather">天气</string>
+	<string name="weather_api_title_temperature">温度</string>
+	<string name="weather_api_title_humidity">湿度</string>
+	<string name="weather_api_title_wind">风向</string>
+	<string name="weather_api_title_sunrise">日出时间</string>
+	<string name="weather_api_title_sunSet">日落时间</string>
+	<string name="weather_api_title_airCondition">空气质量</string>
+	<string name="weather_api_title_pollutionIndex">空气质量指数</string>
+	<string name="weather_api_title_cold_index">感冒指数</string>
+	<string name="weather_api_title_dressing_index">穿衣指数</string>
+	<string name="weather_api_title_exercise_index">运动指数</string>
+	<string name="weather_api_title_wash_index">洗衣指数</string>
+	<string name="weather_api_title_crawlerTime">更新时间</string>
+	<string name="weather_api_title_dayTime">白天天气</string>
+	<string name="weather_api_title_night">夜晚天气</string>
+	
+	<string name="mobile_api_title_province">省份</string>
+	<string name="mobile_api_title_city">城市</string>
+	<string name="mobile_api_title_cityCode">城市区号</string>
+	<string name="mobile_api_title_zipCode">邮编</string>
+	<string name="mobile_api_title_operator">运营商信息</string>
+	
+	<string name="postcode_api_title_district">区县</string>
+	<string name="postcode_api_title_address">详细地址</string>
+	
+	<string name="cook_api_title_category1">菜谱</string>
+	<string name="cook_api_title_category2">分类</string>
+	<string name="cook_api_title_category3">子类</string>
+	<string name="cook_api_title_ingredients">配料</string>
+	<string name="cook_api_title_method">步骤</string>
+</resources>
